@@ -547,6 +547,7 @@ button.next {
 
 #loja1::before {
   content: "";
+  border-radius: 10px;
   position: absolute;
   top: 0;
   left: 0;
@@ -572,6 +573,7 @@ button.next {
 }
 
 #loja2::before {
+  border-radius: 10px;
   content: "";
   position: absolute;
   top: 0;
